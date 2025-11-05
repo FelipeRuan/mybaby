@@ -44,12 +44,12 @@ main {
     background: #ffffff25;
 }
 
-div.logo {
+h1.logo {
     text-align: center;
     margin-bottom: 20px;
     color: var(--logo);
 }
-div.logo span {
+h1.logo span {
     color: var(--logo-light);
 }
 

@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-        <div class="logo">Baby<span>Connect</span></div>
+        <h1 class="logo">Baby<span>Connect</span></h1>
         <form action="/login.php" method="POST">
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" required>
@@ -18,7 +18,7 @@
 
             <button type="submit">Entrar</button>
         </form>
-        <p>Não tem uma conta? <a href="register.php">Registre-se aqui</a></p>
+        <p>Não tem uma conta? <a href="cadastro.php">Registre-se aqui</a></p>
     </main>
 </body>
 </html>
