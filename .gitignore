@@ -1,0 +1,7 @@
+# Pastas e arquivos que não devem ser rastreados
+node_modules/
+vendor/
+dist/
+build/
+.vscode/
+.env
